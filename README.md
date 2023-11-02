@@ -12,6 +12,7 @@
 - [Backend](https://github.com/lpiergiacomi/land-tracker-back)
 - [Frontend](https://github.com/lpiergiacomi/land-tracker-front)
 - [Trello](https://trello.com/b/6GXabTN0/land-tracker-backlog)
+- [Wiki](https://github.com/lpiergiacomi/land-tracker-doc/wiki)
 
 ## ¿Qué objetivo cumple?
 En Land Tracker vas a poder realizar el seguimiento de todas las operaciones que se pueden realizar en un lote (reservas, pagos, documentación asociada, etc.), además de contar con una visualización 3D de los mismos donde se puede ver información relevante.

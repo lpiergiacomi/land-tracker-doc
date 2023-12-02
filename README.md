@@ -20,5 +20,5 @@ En Land Tracker vas a poder realizar el seguimiento de todas las operaciones que
 ## ¿Para qué público está pensado?
 Land Tracker está pensando para cualquier grupo inmobiliario que se dedique al desarollo y comercialización de loteos.
 
-## ¿Qué modulos incluye en una primera etapa y cómo se extendería a futuro?
+## ¿Qué módulos incluye en una primera etapa y cómo se extendería a futuro?
 Como primera implementación habrá usuarios con distintos permisos, gestión de loteos, lotes (con su visualización 3D), reservas, cobros y visualización de informes. A futuro el sistema podrá contar con gestión de precios con distintas listas, gestión de reclamos y atención al cliente, gestión de gastos (con armado de presupuestos).
